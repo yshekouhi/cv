@@ -32,8 +32,6 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/@fontsource/vazirmatn@5.0.8/index.min.css  
 
 markdown_extensions:
   - admonition
