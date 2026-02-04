@@ -1,13 +1,22 @@
-@font-face {
+/* @font-face {
   font-family: "Vazirmatn";
   src: "../fonts/Vazirmatn-Regular.woff2";
 }
 
 :root {
   --md-text-font: "Vazirmatn"; 
+} */
+
+
+/* Define CSS variables for Vazirmatn font */
+:root {
+  --md-text-font: "Vazirmatn", sans-serif;
 }
 
-
-
+/* Apply Vazirmatn to all text */
+body {
+  font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
+}
 
 
