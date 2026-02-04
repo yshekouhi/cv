@@ -72,10 +72,12 @@ plugins:
           name: English
           build: true
           site_name: "Curriculum Vitae Shekoohiyan Sakine, PhD"
+          site_url: https://yshekouhi.github.io/cv/
         - locale: fa
           name: 'فارسی'
           build: true
           site_name: "رزومه دکتر سکینه شکوهیان"
+          site_url: https://yshekouhi.github.io/cv/fa/
           theme:
             palette:
               primary: blue
