@@ -25,9 +25,9 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/yshekouhi/cv
-      name: ''
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sakine-shekoohiyan-2964b571/
+      name: linkedin
 
 extra_css:
   - stylesheets/extra.css
