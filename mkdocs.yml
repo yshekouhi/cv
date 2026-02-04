@@ -77,7 +77,7 @@ plugins:
           name: 'فارسی'
           build: true
           site_name: "رزومه دکتر سکینه شکوهیان"
-          site_url: https://yshekouhi.github.io/cv/fa/
+          # site_url: https://yshekouhi.github.io/cv/fa/
           theme:
             palette:
               primary: blue
