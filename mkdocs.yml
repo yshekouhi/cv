@@ -24,6 +24,7 @@ theme:
     - toc.integrate
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sakine-shekoohiyan-2964b571/
