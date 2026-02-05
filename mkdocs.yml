@@ -75,6 +75,9 @@ plugins:
           build: true
           site_name: "Curriculum Vitae Shekoohiyan Sakine, PhD"
           site_url: https://shekoohiyan.ir/
+          theme:
+            palette:
+              primary: blue          
         - locale: fa
           name: 'فارسی'
           build: true
@@ -82,7 +85,7 @@ plugins:
           site_url: https://shekoohiyan.ir/fa/
           theme:
             palette:
-              primary: blue
+              primary: green
           nav_translations:
             Home: 'معرفی'
             Teaching: 'تدریس'
